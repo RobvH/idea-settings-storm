@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="PHP PSR-0 Namespace Root Detection" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Notifications" shouldLog="false" />
+  </component>
+</application>

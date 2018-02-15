@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="example" type="JSON" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".env.ci" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="csvcb32c61e-f7d0-4180-8f7f-21487d196161" type="PLAIN_TEXT" />
+      <mapping pattern="CampaignTableSeeder" type="Perl" />
+    </extensionMap>
+  </component>
+</application>

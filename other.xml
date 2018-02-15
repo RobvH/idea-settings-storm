@@ -1,0 +1,36 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="7.9.0" last-modified="1492457342000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/6.8.1/bin/node" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+    <option name="MOVE_CLASS_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
+    <option name="MOVE_CLASS_SEARCH_IN_TEXT_OCCURRENCES" value="true" />
+    <option name="MOVE_NAMESPACE_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
+    <option name="MOVE_NAMESPACE_SEARCH_IN_TEXT_OCCURRENCES" value="true" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="true" url="https://bankratecom.atlassian.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfc8dfc6df99dfc2dfc8dfc6df99dfc2dfe0dfc3dfd8dfcbdf84</password>
+      <option name="inCloud" value="true" />
+      <option name="jiraVersion" value="1000.456.2" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>rob.vanhoose</username>
+    </JIRA>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="tc" value="/**&#10; * It $NAME$.&#10; * @test&#10; */&#10;public function it_$FNAME$()&#10;{&#10;     $END$&#10;}" shortcut="ENTER" description="'test case' generation" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;does something...&quot;" alwaysStopAt="true" />
+    <variable name="FNAME" expression="snakeCase(decapitalize(NAME))" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>
