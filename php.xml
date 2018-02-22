@@ -13,11 +13,7 @@
       <interpreter home="ssh://rvanhoose@10.104.48.74:22/usr/bin/php" id="19fc4999-26de-4b6a-ad91-f58ea6d8174a" name="Dev PHP 7" debugger_id="php.debugger.XDebug">
         <remote_data HOST="10.104.48.74" PORT="22" USERNAME="rvanhoose" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/rvanhoose/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
-      <interpreter home="/usr/local/bin/php" id="e7132512-f047-4725-a644-6b5843909ec4" name="PHP 7.2" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/opt/php72-xdebug/xdebug.so">
-        <configuration_options>
-          <configuration_option name="xdebug.profiler_enable" value="1" />
-        </configuration_options>
-      </interpreter>
+      <interpreter home="/usr/local/bin/php" id="e7132512-f047-4725-a644-6b5843909ec4" name="PHP 7.2" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/opt/php72-xdebug/xdebug.so" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -1398,7 +1394,7 @@
             <configuration_option name="xdebug.overload_var_dump" value="2" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
-            <configuration_option name="xdebug.profiler_enable" value="1" />
+            <configuration_option name="xdebug.profiler_enable" value="0" />
             <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
             <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
             <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
