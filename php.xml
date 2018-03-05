@@ -1513,7 +1513,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="c9f04b07-bd3b-4b6c-84c5-7c121bf21f95" load_method="PHPUNIT_PHAR" configuration_file_path="/home/vagrant/brstack/funding-service/phpunit.xml" custom_loader_path="" phpunit_phar_path="/usr/bin/phpunit.phar" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="c9f04b07-bd3b-4b6c-84c5-7c121bf21f95" load_method="CUSTOM_LOADER" configuration_file_path="/home/vagrant/brstack/funding-service/phpunit.xml" custom_loader_path="" phpunit_phar_path="/usr/bin/phpunit.phar" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
