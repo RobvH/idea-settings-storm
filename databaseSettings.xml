@@ -1,5 +1,6 @@
 <application>
   <component name="DatabaseSettings" version="3">
+    <option name="page-size" value="1500" />
     <option name="execute-selection-option" value="3" />
     <exec-options>
       <exec-option exec-selection="3" />
