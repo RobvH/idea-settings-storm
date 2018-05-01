@@ -1,0 +1,14 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Pull...">
+        <Item>
+          <IdeaActionID>Git.Pull</IdeaActionID>
+          <ShortCut>'⌃⌥⌘↓'</ShortCut>
+          <Description>Pull...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
