@@ -97,6 +97,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CheckCreditsActivationStatusTest.it_announces_oof_for_newly_ended_credits_that_leave_empty_balances'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CheckCreditsActivationStatusTest.it_announces_oof_for_newly_ended_credits_that_leave_empty_balances'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'tests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -119,6 +127,14 @@
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌘F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
     </option>
