@@ -97,6 +97,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'AnnotationEventTest.it_annotates_an_existing_funding_event'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'AnnotationEventTest.it_annotates_an_existing_funding_event'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CheckCreditsActivationStatusTest.it_announces_oof_for_newly_ended_credits_that_leave_empty_balances'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
