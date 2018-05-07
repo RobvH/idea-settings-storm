@@ -30,7 +30,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Maximized">
@@ -102,7 +102,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'AnnotationEventTest.it_annotates_an_existing_funding_event'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CheckCreditsActivationStatusTest.it_announces_oof_for_newly_ended_credits_that_leave_empty_balances'">
@@ -126,7 +126,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -150,6 +150,14 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'⇧⌘U'</ShortCut>
           <Description>Unshelve...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Maximized">
+        <Item>
+          <IdeaActionID>Console.TableResult.EditValueMaximized</IdeaActionID>
+          <ShortCut>'⇧⏎' or '⌥⇧⏎'</ShortCut>
+          <Description>View Maximized</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
