@@ -57,6 +57,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'⌘8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Console...">
         <Item>
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
