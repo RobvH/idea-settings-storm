@@ -35,6 +35,9 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl meta alt down" />
   </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="ctrl meta alt page_up" />
+  </action>
   <action id="NewElementSamePlace" />
   <action id="RecentChangedFiles" />
   <action id="SwitchApply">
